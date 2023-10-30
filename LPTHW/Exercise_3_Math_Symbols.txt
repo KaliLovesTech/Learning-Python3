@@ -1,0 +1,16 @@
+Python Math Symbols and Their Explanations
+
++  : Addition
+-  : Subtraction
+*  : Multiplication
+/  : Division
+%  : Modulus (remainder of division)
+** : Exponentiation (power)
+// : Floor Division (division that rounds down to the nearest integer)
+
+<  : Less than
+>  : Greater than
+<= : Less than or equal to
+>= : Greater than or equal to
+== : Equal to
+!= : Not equal to
